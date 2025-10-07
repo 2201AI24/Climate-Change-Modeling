@@ -183,8 +183,7 @@ Climate-Change-Modeling/
 │  ├─ TemperaturesByMajorCity.csv
 |  ├─ GlobalTemperatures.csv
 │  └─ Global_sea_level_rise.csv
-├─ notebooks/
-│  └─ Climate_Change_Modeling.ipynb     # primary notebook with EDA, modeling & plots    
+├─ Climate_Change_Modeling.ipynb     # primary notebook with EDA, modeling & plots    
 ├─ requirements.txt
 └─ README.md
 ```
