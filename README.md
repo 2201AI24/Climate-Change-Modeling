@@ -241,6 +241,3 @@ jupyter notebook notebooks/Climate_Change_Modeling.ipynb
 📧 *[[metlaumeshchaandra2005.email@example.com](mailto:metlaumeshchandra2005.email@example.com)]*
 
 ---
-
-* produce a **short (one-page) README** variant for a college submission, or
-* generate the `requirements.txt` and `modeling.py` starter script (with the `predict_sea_level_from_co2` implementation) for direct use.
